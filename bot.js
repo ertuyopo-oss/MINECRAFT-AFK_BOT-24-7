@@ -78,5 +78,4 @@ createBot();
 
 
 
-    - name: Ejecutar script del NPC
-      run: node bot.js
+    
